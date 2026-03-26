@@ -1,0 +1,2437 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.112405014998,
+          40.735530260057
+        ]
+      },
+      "properties": {
+        "defendant": "Alden Leeds Inc.",
+        "site": "Alden Leeds Jacobus Ave Site",
+        "address": "55 Jacobus Ave., South Kearny, NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.151620352101,
+          40.778989249482
+        ]
+      },
+      "properties": {
+        "defendant": "Alden Leeds Inc.",
+        "site": "Alden Leeds McCarter Hwy Site",
+        "address": "2145 McCarter Highway, Newark, NJ 07104",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.100891983228,
+          40.734682577606
+        ]
+      },
+      "properties": {
+        "defendant": "Alden Leeds Inc.",
+        "site": "Alden Leeds N Hackensack Ave Site",
+        "address": "100 North Hackensack Avenue, Kearny, NJ 07032",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.134744932511,
+          40.715380377976
+        ]
+      },
+      "properties": {
+        "defendant": "Alliance Chemical Inc.",
+        "site": "Alliance Chemical Site",
+        "address": "339-355 Avenue P., Newark, NJ 07105 (33 Avenue P)",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.149785813671,
+          40.782701211739
+        ]
+      },
+      "properties": {
+        "defendant": "Arkema Inc.",
+        "site": "Wallace & Tiernan Site",
+        "address": "25 Main Street, Belleville NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.140482747685,
+          40.748876125912
+        ]
+      },
+      "properties": {
+        "defendant": "Ashland LLC",
+        "site": "Ashland Drew Chemical Site",
+        "address": "1106 Harrison Avenue, Kearny NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.130174138755,
+          40.726583772301
+        ]
+      },
+      "properties": {
+        "defendant": "Ashland LLC",
+        "site": "Ashland Foundry Site",
+        "address": "221 Foundry Street, Newark NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.120913188683,
+          40.730823272291
+        ]
+      },
+      "properties": {
+        "defendant": "Atlantic Richfield Company",
+        "site": "Getty Newark Terminal Site",
+        "address": "86 Doremus Ave., Newark NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.133199312368,
+          40.737790275748
+        ]
+      },
+      "properties": {
+        "defendant": "Atlas Refinery, Inc.",
+        "site": "Atlas Refining Site",
+        "address": "142 Lockwood Street, Newark NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.163920034405,
+          40.750959923936
+        ]
+      },
+      "properties": {
+        "defendant": "BASF Catalysts LLC",
+        "site": "BASF Engelhard Site (BASF Catalysts)",
+        "address": "1 West Central, East Newark NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.160947314293,
+          40.939847329744
+        ]
+      },
+      "properties": {
+        "defendant": "BASF Corporation",
+        "site": "BASF Hawthorne Site",
+        "address": "150 Wagaraw Road, Hawthorne NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.113250541751,
+          40.722622343652
+        ]
+      },
+      "properties": {
+        "defendant": "BASF Corporation",
+        "site": "BASF Kearny Site (United Cork)",
+        "address": "50 Central Ave., Kearny, NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.157542965072,
+          40.759001847664
+        ]
+      },
+      "properties": {
+        "defendant": "Bath Iron Works",
+        "site": "Congoleum/BIW Site",
+        "address": "195 Belgrove Drive, Kearny NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.133279710625,
+          40.738847537408
+        ]
+      },
+      "properties": {
+        "defendant": "Benjamin Moore & Co.",
+        "site": "Benjamin Moore & Co. Site",
+        "address": "134 Lister Avenue",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.129756510774,
+          40.723451445306
+        ]
+      },
+      "properties": {
+        "defendant": "Benjamin Moore & Co.",
+        "site": "D&J Trucking Site (Benjamin Moore)",
+        "address": "310-336 Avenue P, Newark Nj",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.184526258586,
+          40.746865261779
+        ]
+      },
+      "properties": {
+        "defendant": "Berol Corporation",
+        "site": "Faber-Castell Site",
+        "address": "41 Dickerson Street, Newark NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.147449223785,
+          40.743647216143
+        ]
+      },
+      "properties": {
+        "defendant": "Campbell Foundry Company",
+        "site": "Campbell Foundry Bergen St. Site",
+        "address": "800 Bergen Street, Harrison NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.13904529124,
+          40.748974727057
+        ]
+      },
+      "properties": {
+        "defendant": "Campbell Foundry Company",
+        "site": "Campbell Foundry Harrison Ave. Site",
+        "address": "1235 Harrison Ave., Kearny NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.138012499547,
+          40.771198469562
+        ]
+      },
+      "properties": {
+        "defendant": "Canning Gumm LLC",
+        "site": "Canning Gumm Site",
+        "address": "538 Forest Street, Kearny NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.087990154526,
+          40.878481977692
+        ]
+      },
+      "properties": {
+        "defendant": "Chargeurs, Inc.",
+        "site": "UPDW Arnot & Main St Site",
+        "address": "42 Arnot Street, Lodi NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.08433324912,
+          40.880182451894
+        ]
+      },
+      "properties": {
+        "defendant": "Chargeurs, Inc.",
+        "site": "UPDW Main Street",
+        "address": "199 and 205 Main Street, Lodi NJ",
+        "geocode_source": "manual_fixed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.124461093302,
+          40.722725575136
+        ]
+      },
+      "properties": {
+        "defendant": "Chemtrade Chemicals Corporation",
+        "site": "Chemtrade Site",
+        "address": "332-352 Doremus Ave., Newark NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.124231147656,
+          40.723114103987
+        ]
+      },
+      "properties": {
+        "defendant": "Chemtrade Chemicals Corporation",
+        "site": "Essex Chemical Site",
+        "address": "330 Doremus Ave., Newark NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.120913188683,
+          40.730823272291
+        ]
+      },
+      "properties": {
+        "defendant": "Chevron Environmental Management Company",
+        "site": "Getty Newark Terminal Site",
+        "address": "86 Doremus Avenue, Newark, NJ 07105",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.111266065936,
+          40.739716764609
+        ]
+      },
+      "properties": {
+        "defendant": "Clean Earth of North Jersey, Inc.",
+        "site": "Clean Earth Site",
+        "address": "101-115 Jacobus Ave., Kearny NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.142069811264,
+          40.726103930598
+        ]
+      },
+      "properties": {
+        "defendant": "CNA Holdings LLC",
+        "site": "Celanese Ancillary Site (Rome St)",
+        "address": "226 Rome Street, Newark, NJ 07105",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1304126,
+          40.7128611
+        ]
+      },
+      "properties": {
+        "defendant": "CNA Holdings LLC",
+        "site": "Celanese Main Site (Doremus Ave)",
+        "address": "354 and 375 Doremus Ave., Newark NJ",
+        "geocode_source": "manual_fixed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.151202455368,
+          40.72884691291
+        ]
+      },
+      "properties": {
+        "defendant": "CNA Holdings LLC",
+        "site": "Celanese Plastics Site (Ferry St)",
+        "address": "290 Ferry Street, Newark, NJ 07105",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.193246148095,
+          40.817899159645
+        ]
+      },
+      "properties": {
+        "defendant": "Coats & Clark Inc.",
+        "site": "Coats & Clark Bloomfield Site",
+        "address": "735 Broad Street, Bloomfield NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1652222,
+          40.7607261
+        ]
+      },
+      "properties": {
+        "defendant": "Coats & Clark Inc.",
+        "site": "Coats & Clark Ogden St. Site",
+        "address": "260 Ogden St, Newark NJ",
+        "geocode_source": "nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1630425,
+          40.753246
+        ]
+      },
+      "properties": {
+        "defendant": "Coats & Clark Inc.",
+        "site": "Coats & Clark Passaic Ave. Site",
+        "address": "900 Passaic Ave., East Newark, NJ",
+        "geocode_source": "nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.157542965072,
+          40.759001847664
+        ]
+      },
+      "properties": {
+        "defendant": "Congoleum Corporation",
+        "site": "Congoleum/BIW Site",
+        "address": "195 Belgrove Drive, Kearny NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.118124099707,
+          40.812684368625
+        ]
+      },
+      "properties": {
+        "defendant": "Conopco, Inc.",
+        "site": "S.B. Penick Site",
+        "address": "540 New York Ave., Lyndhurst NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.184659730534,
+          40.777404517864
+        ]
+      },
+      "properties": {
+        "defendant": "Cooper Industries, LLC",
+        "site": "Edison Battery Site",
+        "address": "75 Belmont Avenue, Belleville, NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.171922296682,
+          40.736632484286
+        ]
+      },
+      "properties": {
+        "defendant": "Cooper Industries, LLC",
+        "site": "J. Wiss Bank Street & Littleton Site",
+        "address": "7, 13, 26 Bank Street, Newark NJ",
+        "geocode_source": "manual_fixed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.192882677485,
+          40.745612872309
+        ]
+      },
+      "properties": {
+        "defendant": "Cooper Industries, LLC",
+        "site": "J. Wiss Littleton Site",
+        "address": "33 Littleton Avenue, Newark NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.12865942319,
+          40.737232015739
+        ]
+      },
+      "properties": {
+        "defendant": "Covanta Essex Co.",
+        "site": "American Ref-Fuel Site",
+        "address": "66 Blanchard St., Newark NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.132128719845,
+          40.727424103356
+        ]
+      },
+      "properties": {
+        "defendant": "Croda Inc.",
+        "site": "Foundry Street Complex (Hummel Lanolin Cash Out)",
+        "address": "185 Foundry Street (Block 5005 -- Lot 21), Newark NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.093857,
+          40.864956
+        ]
+      },
+      "properties": {
+        "defendant": "Curtiss-Wright Corporation",
+        "site": "Curtiss-Wright Site",
+        "address": "1 Passaic Street, Wood Ridge NJ",
+        "geocode_source": "nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.139135610471,
+          40.748961103722
+        ]
+      },
+      "properties": {
+        "defendant": "Darling Ingredients Inc.",
+        "site": "Darling Harrison Ave Site (Cash Out)",
+        "address": "1215 Harrison Avenue, Kearny, NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.128735899905,
+          40.736556221966
+        ]
+      },
+      "properties": {
+        "defendant": "Darling Ingredients Inc.",
+        "site": "Standard-Tallow Site (Cash Out)",
+        "address": "61 Blanchard Street, Newark NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.160782263414,
+          40.754553755707
+        ]
+      },
+      "properties": {
+        "defendant": "DiLorenzo Properties Company",
+        "site": "American Modern Metals Site (Cash Out)",
+        "address": "25 Belgrove Drive, Kearny NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.122469950696,
+          40.727623195891
+        ]
+      },
+      "properties": {
+        "defendant": "E. I. du Pont de Nemours and Company",
+        "site": "Pitt-Consol/du Pont Site",
+        "address": "191 Doremus Ave., Newark NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.123770634767,
+          40.724183247694
+        ]
+      },
+      "properties": {
+        "defendant": "Elan Chemical Co., Inc.",
+        "site": "Elan Chemical Site",
+        "address": "268 Doremus Ave., Newark NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.133482433703,
+          40.738840570985
+        ]
+      },
+      "properties": {
+        "defendant": "EM Sergeant Pulp & Chemical Company",
+        "site": "EM Sergeant Site (Cash Out)",
+        "address": "120 Lister Avenue, Newark, NJ 07105",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.155311228696,
+          40.735134362502
+        ]
+      },
+      "properties": {
+        "defendant": "EnPro Industries, Inc.",
+        "site": "Crucible Steel/Spiegel Site",
+        "address": "600 Cape May St, Harrison NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.110974924016,
+          40.867198514151
+        ]
+      },
+      "properties": {
+        "defendant": "EPEC Polymers, Inc.",
+        "site": "Goodrich/Emerald Kalama Site",
+        "address": "290 River Drive, Garfield NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.124231147656,
+          40.723114103987
+        ]
+      },
+      "properties": {
+        "defendant": "Essex Chemical Corporation",
+        "site": "Essex Chemical Site",
+        "address": "330 Doremus Ave., Newark NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.165856119857,
+          40.731366311613
+        ]
+      },
+      "properties": {
+        "defendant": "Everett Smith Group Ltd.",
+        "site": "Blanchard Bros Site",
+        "address": "20 Bruen Street, Newark NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.133490895269,
+          40.738228419296
+        ]
+      },
+      "properties": {
+        "defendant": "Fiske Brothers Refining Co.",
+        "site": "Fiske Site (Cash Out)",
+        "address": "129 Lockwood Street, Newark, NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.14585270151,
+          40.802884707236
+        ]
+      },
+      "properties": {
+        "defendant": "Flexon Industries Corp",
+        "site": "Flexon Site (Cash Out)",
+        "address": "666 Washington Avenue, Belleville, NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.132128719845,
+          40.727424103356
+        ]
+      },
+      "properties": {
+        "defendant": "Foundry Street Corporation",
+        "site": "Foundry Street Complex",
+        "address": "185 Foundry Street, Newark NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.130174138755,
+          40.726583772301
+        ]
+      },
+      "properties": {
+        "defendant": "Foundry Street Development, LLC",
+        "site": "Ashland Foundry Site",
+        "address": "221 Foundry Street, Newark NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.161676326646,
+          40.757312776133
+        ]
+      },
+      "properties": {
+        "defendant": "Franklin-Burlington Plastics, Inc.",
+        "site": "Franklin-Burlington Site",
+        "address": "113 Passaic Avenue, Kearny NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.106313378458,
+          40.860693468058
+        ]
+      },
+      "properties": {
+        "defendant": "Garfield Molding Company",
+        "site": "Garfield Molding Site",
+        "address": "10 Midland Ave, P.O. Box 3236, Wallington NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.154797336655,
+          40.74978116116
+        ]
+      },
+      "properties": {
+        "defendant": "General Electric Company",
+        "site": "RCA 5th St. Site",
+        "address": "415 South 5th Street, Harrison NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.126669868776,
+          40.829525201071
+        ]
+      },
+      "properties": {
+        "defendant": "Givaudan Fragrances Corporation",
+        "site": "Givaudan Site",
+        "address": "100 Delawanna Ave. and 125 Delawanna Ave., Clifton NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.110974924016,
+          40.867198514151
+        ]
+      },
+      "properties": {
+        "defendant": "Goodrich Corporation",
+        "site": "Goodrich/Emerald Kalama Site",
+        "address": "290 River Drive, Garfield NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1630425,
+          40.753246
+        ]
+      },
+      "properties": {
+        "defendant": "Harrison Supply Company",
+        "site": "Harrison Supply Site (Cash Out)",
+        "address": "800 Passaic Avenue, East Newark, NJ",
+        "geocode_source": "nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1562,
+          40.739
+        ]
+      },
+      "properties": {
+        "defendant": "Hartz Mountain Corporation",
+        "site": "Sternco/Hartz Mountain Site",
+        "address": "600 and 700 Blocks, South 4th Street, Harrison NJ",
+        "geocode_source": "approx"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.083766444492,
+          40.881821720333
+        ]
+      },
+      "properties": {
+        "defendant": "Hexcel Corporation",
+        "site": "Fine Organics/Hexcel Site",
+        "address": "205 Main Street, Lodi NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.155265076712,
+          40.830363430457
+        ]
+      },
+      "properties": {
+        "defendant": "Hoffmann-La Roche, Inc.",
+        "site": "Hoffman-LaRoche Site",
+        "address": "340 Kingsland Road, Nutley, NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.111106737491,
+          40.858876547115
+        ]
+      },
+      "properties": {
+        "defendant": "Honeywell International, Inc.",
+        "site": "General Chemical Site",
+        "address": "65 Lodi Street, Passaic NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.112830575463,
+          40.91225750735
+        ]
+      },
+      "properties": {
+        "defendant": "Innospec Active Chemicals LLC",
+        "site": "Innospec Site",
+        "address": "418 Falmouth Ave., Elmwood Park NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.150597706758,
+          40.784442259214
+        ]
+      },
+      "properties": {
+        "defendant": "ISP Chemicals LLC",
+        "site": "ISP Chemicals Site",
+        "address": "11 William Street, Belleville NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.110974924016,
+          40.867198514151
+        ]
+      },
+      "properties": {
+        "defendant": "Kalama Specialty Chemicals, Inc.",
+        "site": "Goodrich/Emerald Kalama Site",
+        "address": "290 River Drive, Garfield NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.17739986592,
+          40.77897035517
+        ]
+      },
+      "properties": {
+        "defendant": "KAO USA Inc.",
+        "site": "KAO USA Site (Cash Out)",
+        "address": "11 Franklin Avenue, Belleville, NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.142181705005,
+          40.748625917057
+        ]
+      },
+      "properties": {
+        "defendant": "Kearny Smelting & Refining Corp.",
+        "site": "Kearny Smelting Site",
+        "address": "936 Harrison Ave., Kearny NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1412234,
+          40.8265372
+        ]
+      },
+      "properties": {
+        "defendant": "L3Harris Corporation",
+        "site": "ITT Avionics Site",
+        "address": "100 Kingsland Road, Clifton NJ",
+        "geocode_source": "nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.120913188683,
+          40.730823272291
+        ]
+      },
+      "properties": {
+        "defendant": "LeeMilt\u2019s Petroleum, Inc.",
+        "site": "Getty Newark Terminal Site",
+        "address": "86 Doremus Ave., Newark NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.13089545376,
+          40.711828691933
+        ]
+      },
+      "properties": {
+        "defendant": "Legacy Vulcan, LLC",
+        "site": "Vulcan/McKesson/Safety-Kleen Site",
+        "address": "600 Doremus Ave., Newark NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.084920512471,
+          40.878453174399
+        ]
+      },
+      "properties": {
+        "defendant": "Mallinckrodt LLC",
+        "site": "Mallickrodt Site (Cash Out)",
+        "address": "165-167 Main St., Lodi, NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.09462725877,
+          40.709967064636
+        ]
+      },
+      "properties": {
+        "defendant": "Mallinckrodt LLC",
+        "site": "Mallinckrodt/MI Holdings Site",
+        "address": "223 West Side Ave., Jersey City NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.13089545376,
+          40.711828691933
+        ]
+      },
+      "properties": {
+        "defendant": "McKesson Corporation",
+        "site": "Vulcan/McKesson/Safety-Kleen Site",
+        "address": "600 Doremus Ave., Newark NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.111266065936,
+          40.739716764609
+        ]
+      },
+      "properties": {
+        "defendant": "Melon Leasing Corporation, Inc.",
+        "site": "Clean Earth Site",
+        "address": "101-115 Jacobus Ave., Kearny NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.130174138755,
+          40.726583772301
+        ]
+      },
+      "properties": {
+        "defendant": "Meltser-Tonnele Avenue LLC",
+        "site": "Ashland Foundry Site",
+        "address": "221 Foundry Street, Newark NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.13981450005,
+          40.800888754689
+        ]
+      },
+      "properties": {
+        "defendant": "Messer LLC",
+        "site": "Messer/Linde Early Cash Out",
+        "address": "681 Main Street, Belleville, NJ 07109",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.09462725877,
+          40.709967064636
+        ]
+      },
+      "properties": {
+        "defendant": "MI Holdings, Inc.",
+        "site": "Mallinckrodt/MI Holdings Site",
+        "address": "223 West Side Ave., Jersey City NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.08433324912,
+          40.880182451894
+        ]
+      },
+      "properties": {
+        "defendant": "Nappwood Land Corporation",
+        "site": "Lemke/Napp Site",
+        "address": "199 Main Street, Lodi NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.15511752848,
+          40.869891428407
+        ]
+      },
+      "properties": {
+        "defendant": "National-Standard LLC",
+        "site": "Athenia Steel Site",
+        "address": "714-716 Clifton Ave., Clifton NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.12070731756,
+          40.879618599331
+        ]
+      },
+      "properties": {
+        "defendant": "Neu Holdings (Eden Wood)",
+        "site": "Whippany Paper Board Site",
+        "address": "1 Ackerman Ave., Clifton NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.128560590243,
+          40.735412095151
+        ]
+      },
+      "properties": {
+        "defendant": "Newark Group, Inc.",
+        "site": "Newark Boxboard Site",
+        "address": "17 Blanchard Street, Newark NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1788235,
+          40.7315656
+        ]
+      },
+      "properties": {
+        "defendant": "Newark Morning Ledger Co.",
+        "site": "Star Ledger Site",
+        "address": "1 Star Ledger Plaza, Newark, NJ 07102",
+        "geocode_source": "nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1442393,
+          40.7481855
+        ]
+      },
+      "properties": {
+        "defendant": "Newell Brands Inc.",
+        "site": "Goody Products Site",
+        "address": "969 Newark Turnpike, Kearny NJ",
+        "geocode_source": "nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.112742109551,
+          40.723689411011
+        ]
+      },
+      "properties": {
+        "defendant": "Nokia of America Corporation",
+        "site": "Western Electric Site",
+        "address": "100 Central Ave., Kearny NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.113217241592,
+          40.732574208056
+        ]
+      },
+      "properties": {
+        "defendant": "Novelis Corporation",
+        "site": "Alcan Aluminum Site",
+        "address": "1 Jacobus Ave., Kearny NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.13392748052,
+          40.738824007415
+        ]
+      },
+      "properties": {
+        "defendant": "Noveon Hilton Davis, Inc.",
+        "site": "Hilton Davis/STWB Site (Hilton Davis)",
+        "address": "104-112 Lister Ave. (120 Lister Ave.), Newark NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.13665477355,
+          40.738697390028
+        ]
+      },
+      "properties": {
+        "defendant": "OxyChem",
+        "site": "Diamond 80 Lister",
+        "address": "80 Lister Ave",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.211925,
+          40.741352
+        ]
+      },
+      "properties": {
+        "defendant": "Pabst Brewing Company, LLC",
+        "site": "Pabst Brewing Site",
+        "address": "400 Grove Street, Newark NJ",
+        "geocode_source": "nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.160782263414,
+          40.754553755707
+        ]
+      },
+      "properties": {
+        "defendant": "Palin Enterprises L.L.C.",
+        "site": "American Modern Metals Site",
+        "address": "25 Belgrove Drive, Kearny NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.17149712924,
+          40.746213195249
+        ]
+      },
+      "properties": {
+        "defendant": "Paramount Global",
+        "site": "CBS/Viacom Site",
+        "address": "95 Orange Street, Newark NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.109835040029,
+          40.856854979354
+        ]
+      },
+      "properties": {
+        "defendant": "Passaic Pioneer Properties Co.",
+        "site": "Passaic Pioneer Site",
+        "address": "35 8th Street Passaic, NJ 07055",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.180110777067,
+          40.716622699182
+        ]
+      },
+      "properties": {
+        "defendant": "Pfister Urban Renewal Corporation",
+        "site": "Avenue P Landfill Site",
+        "address": "33 Avenue P, Newark NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.158574184529,
+          40.852762627383
+        ]
+      },
+      "properties": {
+        "defendant": "Pfizer Inc.",
+        "site": "Pfizer Cash Out",
+        "address": "230 Brighton Road, Clifton, NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1077914,
+          40.7395118
+        ]
+      },
+      "properties": {
+        "defendant": "Pharmacia LLC",
+        "site": "Monsanto/Pharmacia Site",
+        "address": "Pennsylvania Ave., Kearny NJ",
+        "geocode_source": "nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.122469950696,
+          40.727623195891
+        ]
+      },
+      "properties": {
+        "defendant": "Pitt-Consol Chemical Company",
+        "site": "Pitt-Consol/du Pont Site",
+        "address": "191 Doremus Ave., Newark NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.140158119844,
+          40.763829443952
+        ]
+      },
+      "properties": {
+        "defendant": "PMC Global, Inc.",
+        "site": "PMC/Kleer Kast Site",
+        "address": "450 Schuyler Ave., Kearny NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.158662446447,
+          40.767577874398
+        ]
+      },
+      "properties": {
+        "defendant": "PPG Industries, Inc.",
+        "site": "PPG Site",
+        "address": "29-75 Riverside Ave., Newark NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1261564,
+          40.7343819
+        ]
+      },
+      "properties": {
+        "defendant": "Public Service Electric and Gas Company",
+        "site": "PSEG 1 (Essex)",
+        "address": "155 Raymond Boulevard, Newark NJ",
+        "geocode_source": "nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.155273980898,
+          40.73459025548
+        ]
+      },
+      "properties": {
+        "defendant": "Public Service Electric and Gas Company",
+        "site": "PSEG 2 (Harrison)",
+        "address": "2000 Frank E. Rodgers Boulevard",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1651102,
+          40.7377936
+        ]
+      },
+      "properties": {
+        "defendant": "Public Service Electric and Gas Company",
+        "site": "PSEG 3 (Substation)",
+        "address": "River Street and City Dock Street, Newark NJ",
+        "geocode_source": "nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1756319,
+          40.7238018
+        ]
+      },
+      "properties": {
+        "defendant": "Public Service Electric and Gas Company",
+        "site": "PSEG 4 (Coal Street)",
+        "address": "McCarter Highway and Center Street, Newark NJ",
+        "geocode_source": "nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1630425,
+          40.753246
+        ]
+      },
+      "properties": {
+        "defendant": "Public Service Electric and Gas Company",
+        "site": "PSEG 5 (East Newark)",
+        "address": "419 Passaic Ave., Newark NJ and 400-404 Passaic Ave., Newark NJ",
+        "geocode_source": "nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1674768,
+          40.7438274
+        ]
+      },
+      "properties": {
+        "defendant": "Public Service Electric and Gas Company",
+        "site": "PSEG 6 (Front Street)",
+        "address": "Lombardy Place and Fulton Street, Newark NJ",
+        "geocode_source": "nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.157759751714,
+          40.732538245079
+        ]
+      },
+      "properties": {
+        "defendant": "Public Service Electric and Gas Company",
+        "site": "PSEG 7 (Market Street)",
+        "address": "Market Street and Raymond Boulevard, Newark NJ",
+        "geocode_source": "manual_fixed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1603401,
+          40.93253
+        ]
+      },
+      "properties": {
+        "defendant": "Public Service Electric and Gas Company",
+        "site": "PSEG 8 (Paterson Gas Plant)",
+        "address": "Wait Street, Paterson NJ",
+        "geocode_source": "nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.08433324912,
+          40.880182451894
+        ]
+      },
+      "properties": {
+        "defendant": "Purdue Pharma Technologies, Inc.",
+        "site": "Lemke/Napp Site",
+        "address": "199 Main Street, Lodi NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.12040291505,
+          40.73203997316
+        ]
+      },
+      "properties": {
+        "defendant": "Quala Systems, Inc.",
+        "site": "Chemical Leaman Site",
+        "address": "80 Doremus Ave., Newark NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.12040291505,
+          40.73203997316
+        ]
+      },
+      "properties": {
+        "defendant": "Quality Carriers, Inc.",
+        "site": "Chemical Leaman Site",
+        "address": "80 Doremus Ave., Newark NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.134296471747,
+          40.716123885118
+        ]
+      },
+      "properties": {
+        "defendant": "Revere Smelting and Refining Corporation",
+        "site": "Revere Smelting Site",
+        "address": "387 Avenue P., Newark NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1450655,
+          40.7481471
+        ]
+      },
+      "properties": {
+        "defendant": "Roselle Mausoleum Maintenance Fund, Inc.",
+        "site": "Kearny Landfill",
+        "address": "1500 Harrison Ave., Kearny NJ",
+        "geocode_source": "nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.113171067527,
+          40.843282716248
+        ]
+      },
+      "properties": {
+        "defendant": "Royce Associates, a Limited Partnership",
+        "site": "Royce Chemical Site",
+        "address": "17 Carlton Ave., East Rutherford NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.112742109551,
+          40.723689411011
+        ]
+      },
+      "properties": {
+        "defendant": "RTC Properties Inc.",
+        "site": "Federal Shipbuilding/Union Minerals",
+        "address": "100 Central Ave., Kearny NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.160782263414,
+          40.754553755707
+        ]
+      },
+      "properties": {
+        "defendant": "S&A Realty Corp.",
+        "site": "American Modern Metals Site",
+        "address": "25 Belgrove Drive, Kearny NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.13089545376,
+          40.711828691933
+        ]
+      },
+      "properties": {
+        "defendant": "Safety-Kleen Envirosystems Company",
+        "site": "Vulcan/McKesson/Safety-Kleen Site",
+        "address": "600 Doremus Ave., Newark NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.132128719845,
+          40.727424103356
+        ]
+      },
+      "properties": {
+        "defendant": "Sequa Corporation",
+        "site": "Foundry Street Complex",
+        "address": "185 Foundry Street, Newark NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.156422257119,
+          40.778559048262
+        ]
+      },
+      "properties": {
+        "defendant": "Seton Company, Inc.",
+        "site": "Seton Leather Site",
+        "address": "849 Broadway/349 Oraton Newark, New Jersey",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.112058826406,
+          40.736796584259
+        ]
+      },
+      "properties": {
+        "defendant": "Spectraserv, Inc.",
+        "site": "Spectraserv Site",
+        "address": "75 Jacobus Ave., Kearny NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.140003180273,
+          40.736883003697
+        ]
+      },
+      "properties": {
+        "defendant": "Stanley Black & Decker, Inc.",
+        "site": "Stanley Works Site",
+        "address": "140 Chapel Street, Newark NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.13392748052,
+          40.738824007415
+        ]
+      },
+      "properties": {
+        "defendant": "STWB Inc.",
+        "site": "Hilton Davis/STWB Site (STWB)",
+        "address": "104-112 Lister Ave. (120 Lister Ave.), Newark NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.190519496416,
+          40.780754016526
+        ]
+      },
+      "properties": {
+        "defendant": "STWB Inc.",
+        "site": "STWB Lehn & Fink Site",
+        "address": "192 and 194 Bloomfield Avenue, Bloomfield, NJ 07003",
+        "geocode_source": "manual_fixed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.132128719845,
+          40.727424103356
+        ]
+      },
+      "properties": {
+        "defendant": "Sun Chemical Corporation",
+        "site": "Foundry Street Complex",
+        "address": "185 Foundry Street, Newark NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.124256697172,
+          40.723070934114
+        ]
+      },
+      "properties": {
+        "defendant": "Sunoco (R&M), LLC",
+        "site": "Sunoco Newark Terminal",
+        "address": "436 Doremus Ave., Newark NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.124256697172,
+          40.723070934114
+        ]
+      },
+      "properties": {
+        "defendant": "Sunoco Partners Marketing & Terminals L.P.",
+        "site": "Sunoco Newark Terminal",
+        "address": "436 Doremus Ave., Newark NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.140966482696,
+          40.758354450952
+        ]
+      },
+      "properties": {
+        "defendant": "Tate & Lyle Solutions USA LLC",
+        "site": "Staley 3rd Ave. & Schuyler",
+        "address": "100 Third Ave., Kearny NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.143434508548,
+          40.759293235809
+        ]
+      },
+      "properties": {
+        "defendant": "Tate & Lyle Solutions USA LLC",
+        "site": "Staley Schuyler Ave.",
+        "address": "320 Schuyler Ave., Kearny NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.126642256374,
+          41.02059973529
+        ]
+      },
+      "properties": {
+        "defendant": "Teva Pharmaceuticals USA, Inc.",
+        "site": "Teva Pharma Site (Cash Out)",
+        "address": "12 Industrial Park and 140 Hopper Avenue, Waldwick, NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.13981450005,
+          40.800888754689
+        ]
+      },
+      "properties": {
+        "defendant": "Textron, Inc.",
+        "site": "Federal Leather Site",
+        "address": "681 Main Street, Belleville NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.124160343226,
+          40.723277140071
+        ]
+      },
+      "properties": {
+        "defendant": "Textron, Inc.",
+        "site": "Textron Site (Cash Out)",
+        "address": "400 Doremus Ave., Newark NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.136745868513,
+          40.738687488404
+        ]
+      },
+      "properties": {
+        "defendant": "TFCF America, Inc.",
+        "site": "Montrose Site",
+        "address": "70, 100, 120 Lister Avenue, Newark, NJ",
+        "geocode_source": "manual_fixed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.129756510774,
+          40.723451445306
+        ]
+      },
+      "properties": {
+        "defendant": "The Sherwin-Williams Company",
+        "site": "D&J Trucking Site (Sherwin-Williams)",
+        "address": "310-336 Avenue P, Newark Nj",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.138797800542,
+          40.738033737119
+        ]
+      },
+      "properties": {
+        "defendant": "The Sherwin-Williams Company",
+        "site": "Sherwin Williams Site",
+        "address": "40, 60, 62-70 Lister Ave., Newark",
+        "geocode_source": "manual_fixed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1364441,
+          40.8082675
+        ]
+      },
+      "properties": {
+        "defendant": "Three County Volkswagen",
+        "site": "Three County VW Early Cash Out",
+        "address": "701 Riverside Ave., Lyndhurst, NJ",
+        "geocode_source": "nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.165398799789,
+          40.784915563718
+        ]
+      },
+      "properties": {
+        "defendant": "Tiffany and Company",
+        "site": "Tiffany Site",
+        "address": "820 Highland Ave., Newark NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.112742109551,
+          40.723689411011
+        ]
+      },
+      "properties": {
+        "defendant": "United States Steel Corporation",
+        "site": "Federal Shipbuilding/Union Minerals",
+        "address": "100 Central Ave., Kearny NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.190628303623,
+          40.748830241844
+        ]
+      },
+      "properties": {
+        "defendant": "Westrock-Southern Container",
+        "site": "Schiffenhaus 4th St.",
+        "address": "49 4th Street, Newark, NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.182852682204,
+          40.740772676843
+        ]
+      },
+      "properties": {
+        "defendant": "Westrock-Southern Container",
+        "site": "Schiffenhaus Academy St.",
+        "address": "204 Academy Street, Newark, NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.152254614063,
+          40.77732929904
+        ]
+      },
+      "properties": {
+        "defendant": "Westrock-Southern Container",
+        "site": "Schiffenhaus McCarter Hwy Site",
+        "address": "2013 McCarter Highway, Newark NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.142301263475,
+          40.826874042462
+        ]
+      },
+      "properties": {
+        "defendant": "Wiggins Plastics, Inc.",
+        "site": "Wiggins Plastics Site",
+        "address": "180 Kingsland Road, Clifton NJ",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.126164417334,
+          40.734408440774
+        ]
+      },
+      "properties": {
+        "defendant": "BBD PRP Group",
+        "site": "Bayonne Barrel and Drum Site",
+        "address": "140-166 Raymond Blvd, Newark, NJ 07105",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.132659959143,
+          40.709133073028
+        ]
+      },
+      "properties": {
+        "defendant": "CSD PRP Group",
+        "site": "Central Steel Drum Site",
+        "address": "704-738 Doremus Avenue, Newark, NJ 07105",
+        "geocode_source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.202035,
+          40.8108227
+        ]
+      },
+      "properties": {
+        "defendant": "Cooper Industries, LLC",
+        "site": "Cooper Sherman Ave Site (Cash Out)",
+        "address": "Sherman Avenue between Bloomfield Avenue and Belleville Avenue, Glen Ridge, NJ",
+        "geocode_source": "manual"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1599201,
+          40.7394476
+        ]
+      },
+      "properties": {
+        "defendant": "General Electric Company",
+        "site": "RCA 2nd St. Site",
+        "address": "1000 Second Street, Harrison, NJ",
+        "geocode_source": "manual"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.125723,
+          40.8620594
+        ]
+      },
+      "properties": {
+        "defendant": "Okonite Company, Inc.",
+        "site": "Okonite Passaic City Site",
+        "address": "Block 1076, Canal and Jefferson Streets, Passaic City NJ",
+        "geocode_source": "manual"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1619766,
+          40.7405411
+        ]
+      },
+      "properties": {
+        "defendant": "Otis Elevator Company",
+        "site": "Otis Elevator Site",
+        "address": "1000 First Street, Harrison NJ",
+        "geocode_source": "manual"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1579818,
+          40.7623477
+        ]
+      },
+      "properties": {
+        "defendant": "Roselle Mausoleum Maintenance Fund, Inc.",
+        "site": "Keegan Landfill",
+        "address": "Bergan Ave., Kearny NJ",
+        "geocode_source": "manual"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1636322,
+          40.8772467
+        ]
+      },
+      "properties": {
+        "defendant": "Wyeth and its subsidiary American Cyanamid Company, and (2) Shulton Inc.",
+        "site": "Wyeth/American Cyanamid Early Cash Out",
+        "address": "697 Route 46, Clifton, NJ",
+        "geocode_source": "manual"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1562551,
+          40.7464901
+        ]
+      },
+      "properties": {
+        "defendant": "EnPro Industries, Inc.",
+        "site": "Crucible Steel/Guyon Pipe Site",
+        "address": "1000 South Fourth Street, Harrison NJ",
+        "geocode_source": "manual"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1562551,
+          40.7464901
+        ]
+      },
+      "properties": {
+        "defendant": "Teval Corporation",
+        "site": "Guyon Pipe Site",
+        "address": "1000 South Fourth Street, Harrison NJ",
+        "geocode_source": "manual"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1526,
+          40.7448
+        ]
+      },
+      "properties": {
+        "defendant": "Campbell Foundry Company",
+        "site": "Campbell Foundry Worthington Ave. Site",
+        "address": "2 Worthington Avenue, Harrison NJ",
+        "geocode_source": "manual"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1526,
+          40.7448
+        ]
+      },
+      "properties": {
+        "defendant": "Cooper Industries, LLC",
+        "site": "McGraw-Edison Site",
+        "address": "401 Worthington Ave., Harrison NJ",
+        "geocode_source": "manual"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1526,
+          40.7448
+        ]
+      },
+      "properties": {
+        "defendant": "DII Industries, LLC",
+        "site": "DII/Halliburton Site",
+        "address": "401 Worthington Ave., Harrison NJ",
+        "geocode_source": "manual"
+      }
+    }
+  ]
+}
